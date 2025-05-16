@@ -26,5 +26,4 @@ const authRoutes: Routes = [
         redirectTo: '',
     },
 ]
-
 export default authRoutes;
